@@ -1,0 +1,18 @@
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab01\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\obj\Debug\net10.0-windows\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN.csproj.GenerateResource.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab01\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\obj\Debug\net10.0-windows\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab01\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\obj\Debug\net10.0-windows\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN.AssemblyInfoInputs.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab01\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\obj\Debug\net10.0-windows\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN.AssemblyInfo.cs
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab01\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\obj\Debug\net10.0-windows\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN.csproj.CoreCompileInputs.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab01\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\obj\Debug\net10.0-windows\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN.sourcelink.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab01\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\obj\Debug\net10.0-windows\Lab01_ThongTinCaNhan.Form1.resources
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab01\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\bin\Debug\net10.0-windows\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN.exe
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab01\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\bin\Debug\net10.0-windows\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN.deps.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab01\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\bin\Debug\net10.0-windows\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN.runtimeconfig.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab01\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\bin\Debug\net10.0-windows\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab01\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\bin\Debug\net10.0-windows\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN.pdb
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab01\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\obj\Debug\net10.0-windows\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab01\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\obj\Debug\net10.0-windows\refint\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab01\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\obj\Debug\net10.0-windows\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN.pdb
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab01\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\obj\Debug\net10.0-windows\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN.genruntimeconfig.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab01\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\obj\Debug\net10.0-windows\ref\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab01\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\LAB01 - ỨNG DỤNG THÔNG TIN CÁ NHÂN\obj\Debug\net10.0-windows\LAB01 - .E79AF2CB.Up2Date

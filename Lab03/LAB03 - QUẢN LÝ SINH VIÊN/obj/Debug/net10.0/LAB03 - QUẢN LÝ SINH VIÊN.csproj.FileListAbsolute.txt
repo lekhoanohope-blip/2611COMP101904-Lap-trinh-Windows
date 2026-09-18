@@ -1,0 +1,16 @@
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab03\LAB03 - QUẢN LÝ SINH VIÊN\bin\Debug\net10.0\LAB03 - QUẢN LÝ SINH VIÊN.exe
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab03\LAB03 - QUẢN LÝ SINH VIÊN\bin\Debug\net10.0\LAB03 - QUẢN LÝ SINH VIÊN.deps.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab03\LAB03 - QUẢN LÝ SINH VIÊN\bin\Debug\net10.0\LAB03 - QUẢN LÝ SINH VIÊN.runtimeconfig.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab03\LAB03 - QUẢN LÝ SINH VIÊN\bin\Debug\net10.0\LAB03 - QUẢN LÝ SINH VIÊN.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab03\LAB03 - QUẢN LÝ SINH VIÊN\bin\Debug\net10.0\LAB03 - QUẢN LÝ SINH VIÊN.pdb
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab03\LAB03 - QUẢN LÝ SINH VIÊN\obj\Debug\net10.0\LAB03 - QUẢN LÝ SINH VIÊN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab03\LAB03 - QUẢN LÝ SINH VIÊN\obj\Debug\net10.0\LAB03 - QUẢN LÝ SINH VIÊN.AssemblyInfoInputs.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab03\LAB03 - QUẢN LÝ SINH VIÊN\obj\Debug\net10.0\LAB03 - QUẢN LÝ SINH VIÊN.AssemblyInfo.cs
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab03\LAB03 - QUẢN LÝ SINH VIÊN\obj\Debug\net10.0\LAB03 - QUẢN LÝ SINH VIÊN.csproj.CoreCompileInputs.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab03\LAB03 - QUẢN LÝ SINH VIÊN\obj\Debug\net10.0\LAB03 - QUẢN LÝ SINH VIÊN.sourcelink.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab03\LAB03 - QUẢN LÝ SINH VIÊN\obj\Debug\net10.0\LAB03 - QUẢN LÝ SINH VIÊN.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab03\LAB03 - QUẢN LÝ SINH VIÊN\obj\Debug\net10.0\refint\LAB03 - QUẢN LÝ SINH VIÊN.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab03\LAB03 - QUẢN LÝ SINH VIÊN\obj\Debug\net10.0\LAB03 - QUẢN LÝ SINH VIÊN.pdb
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab03\LAB03 - QUẢN LÝ SINH VIÊN\obj\Debug\net10.0\LAB03 - QUẢN LÝ SINH VIÊN.genruntimeconfig.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab03\LAB03 - QUẢN LÝ SINH VIÊN\obj\Debug\net10.0\ref\LAB03 - QUẢN LÝ SINH VIÊN.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab03\LAB03 - QUẢN LÝ SINH VIÊN\obj\Debug\net10.0\LAB03 - .CDB7B726.Up2Date

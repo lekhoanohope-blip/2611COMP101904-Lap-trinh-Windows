@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LAB03 - QUẢN LÝ SINH VIÊN/1.0.0": {
+        "runtime": {
+          "LAB03 - QUẢN LÝ SINH VIÊN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAB03 - QUẢN LÝ SINH VIÊN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

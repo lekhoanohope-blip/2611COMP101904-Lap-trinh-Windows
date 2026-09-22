@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04 - Exception, Delegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5244F410-5F99-A114-C5B2-7F43C7014594}|Lab04 - Exception, Delegate.csproj|d:\\khoa\\ltw\\2611comp101904-lap-trinh-windows\\lab04\\lab04 - exception, delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5244F410-5F99-A114-C5B2-7F43C7014594}|Lab04 - Exception, Delegate.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5244F410-5F99-A114-C5B2-7F43C7014594}|Lab04 - Exception, Delegate.csproj|d:\\khoa\\ltw\\2611comp101904-lap-trinh-windows\\lab04\\lab04 - exception, delegate\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5244F410-5F99-A114-C5B2-7F43C7014594}|Lab04 - Exception, Delegate.csproj|solutionrelative:productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5244F410-5F99-A114-C5B2-7F43C7014594}|Lab04 - Exception, Delegate.csproj|d:\\khoa\\ltw\\2611comp101904-lap-trinh-windows\\lab04\\lab04 - exception, delegate\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5244F410-5F99-A114-C5B2-7F43C7014594}|Lab04 - Exception, Delegate.csproj|solutionrelative:repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5244F410-5F99-A114-C5B2-7F43C7014594}|Lab04 - Exception, Delegate.csproj|d:\\khoa\\ltw\\2611comp101904-lap-trinh-windows\\lab04\\lab04 - exception, delegate\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5244F410-5F99-A114-C5B2-7F43C7014594}|Lab04 - Exception, Delegate.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5244F410-5F99-A114-C5B2-7F43C7014594}|Lab04 - Exception, Delegate.csproj|d:\\khoa\\ltw\\2611comp101904-lap-trinh-windows\\lab04\\lab04 - exception, delegate\\exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5244F410-5F99-A114-C5B2-7F43C7014594}|Lab04 - Exception, Delegate.csproj|solutionrelative:exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5244F410-5F99-A114-C5B2-7F43C7014594}|Lab04 - Exception, Delegate.csproj|d:\\khoa\\ltw\\2611comp101904-lap-trinh-windows\\lab04\\lab04 - exception, delegate\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5244F410-5F99-A114-C5B2-7F43C7014594}|Lab04 - Exception, Delegate.csproj|solutionrelative:ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04 - Exception, Delegate\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductService.cs",
+              "ToolTip": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04 - Exception, Delegate\\ProductService.cs",
+              "RelativeToolTip": "ProductService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T03:28:25.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04 - Exception, Delegate\\Repository.cs",
+              "RelativeDocumentMoniker": "Repository.cs",
+              "ToolTip": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04 - Exception, Delegate\\Repository.cs",
+              "RelativeToolTip": "Repository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T03:27:32.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04 - Exception, Delegate\\IEntity.cs",
+              "RelativeDocumentMoniker": "IEntity.cs",
+              "ToolTip": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04 - Exception, Delegate\\IEntity.cs",
+              "RelativeToolTip": "IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T03:24:21.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exception.cs",
+              "DocumentMoniker": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04 - Exception, Delegate\\Exception.cs",
+              "RelativeDocumentMoniker": "Exception.cs",
+              "ToolTip": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04 - Exception, Delegate\\Exception.cs",
+              "RelativeToolTip": "Exception.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T03:13:34.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04 - Exception, Delegate\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04 - Exception, Delegate\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T03:13:29.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04 - Exception, Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04 - Exception, Delegate\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T03:11:16.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04 - Exception, Delegate\bin\Debug\net10.0\Lab04 - Exception, Delegate.exe
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04 - Exception, Delegate\bin\Debug\net10.0\Lab04 - Exception, Delegate.deps.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04 - Exception, Delegate\bin\Debug\net10.0\Lab04 - Exception, Delegate.runtimeconfig.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04 - Exception, Delegate\bin\Debug\net10.0\Lab04 - Exception, Delegate.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04 - Exception, Delegate\bin\Debug\net10.0\Lab04 - Exception, Delegate.pdb
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04 - Exception, Delegate\obj\Debug\net10.0\Lab04 - Exception, Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04 - Exception, Delegate\obj\Debug\net10.0\Lab04 - Exception, Delegate.AssemblyInfoInputs.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04 - Exception, Delegate\obj\Debug\net10.0\Lab04 - Exception, Delegate.AssemblyInfo.cs
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04 - Exception, Delegate\obj\Debug\net10.0\Lab04 - Exception, Delegate.csproj.CoreCompileInputs.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04 - Exception, Delegate\obj\Debug\net10.0\Lab04 - Exception, Delegate.sourcelink.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04 - Exception, Delegate\obj\Debug\net10.0\Lab04 - Exception, Delegate.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04 - Exception, Delegate\obj\Debug\net10.0\refint\Lab04 - Exception, Delegate.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04 - Exception, Delegate\obj\Debug\net10.0\Lab04 - Exception, Delegate.pdb
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04 - Exception, Delegate\obj\Debug\net10.0\Lab04 - Exception, Delegate.genruntimeconfig.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04 - Exception, Delegate\obj\Debug\net10.0\ref\Lab04 - Exception, Delegate.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04 - Exception, Delegate\obj\Debug\net10.0\Lab04 - .85301B15.Up2Date

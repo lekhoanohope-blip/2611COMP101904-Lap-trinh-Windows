@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Khoa\\Lab06\\Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B675862E-FD0D-16DB-05CB-94B804CD20CD}|Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview.csproj|d:\\khoa\\lab06\\lab06 - windows forms n\u00E2ng cao v\u00E0 datagridview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B675862E-FD0D-16DB-05CB-94B804CD20CD}|Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B675862E-FD0D-16DB-05CB-94B804CD20CD}|Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview.csproj|d:\\khoa\\lab06\\lab06 - windows forms n\u00E2ng cao v\u00E0 datagridview\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B675862E-FD0D-16DB-05CB-94B804CD20CD}|Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B675862E-FD0D-16DB-05CB-94B804CD20CD}|Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview.csproj|D:\\Khoa\\Lab06\\Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B675862E-FD0D-16DB-05CB-94B804CD20CD}|Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B675862E-FD0D-16DB-05CB-94B804CD20CD}|Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview.csproj|d:\\khoa\\lab06\\lab06 - windows forms n\u00E2ng cao v\u00E0 datagridview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B675862E-FD0D-16DB-05CB-94B804CD20CD}|Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B675862E-FD0D-16DB-05CB-94B804CD20CD}|Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview.csproj|d:\\khoa\\lab06\\lab06 - windows forms n\u00E2ng cao v\u00E0 datagridview\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{B675862E-FD0D-16DB-05CB-94B804CD20CD}|Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B675862E-FD0D-16DB-05CB-94B804CD20CD}|Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview.csproj|d:\\khoa\\lab06\\lab06 - windows forms n\u00E2ng cao v\u00E0 datagridview\\sp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B675862E-FD0D-16DB-05CB-94B804CD20CD}|Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview.csproj|solutionrelative:sp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Khoa\\Lab06\\Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Khoa\\Lab06\\Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T03:43:35.505Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\Khoa\\Lab06\\Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "D:\\Khoa\\Lab06\\Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-07T03:47:11.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SP.cs",
+              "DocumentMoniker": "D:\\Khoa\\Lab06\\Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview\\SP.cs",
+              "RelativeDocumentMoniker": "SP.cs",
+              "ToolTip": "D:\\Khoa\\Lab06\\Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview\\SP.cs",
+              "RelativeToolTip": "SP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T03:42:13.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Khoa\\Lab06\\Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\Khoa\\Lab06\\Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAAwCsCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T03:30:36.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Khoa\\Lab06\\Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Khoa\\Lab06\\Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T03:16:52.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Khoa\\Lab06\\Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab06\\Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab06\\Lab06 - Windows forms n\u00E2ng cao v\u00E0 datagridview\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T03:13:50.444Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

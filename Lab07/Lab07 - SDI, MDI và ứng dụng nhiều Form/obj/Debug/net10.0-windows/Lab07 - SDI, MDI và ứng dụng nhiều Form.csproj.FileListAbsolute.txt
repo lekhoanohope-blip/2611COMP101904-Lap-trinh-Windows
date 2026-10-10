@@ -1,0 +1,18 @@
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07 - SDI, MDI và ứng dụng nhiều Form\obj\Debug\net10.0-windows\Lab07 - SDI, MDI và ứng dụng nhiều Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07 - SDI, MDI và ứng dụng nhiều Form\obj\Debug\net10.0-windows\Lab07 - SDI, MDI và ứng dụng nhiều Form.AssemblyInfoInputs.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07 - SDI, MDI và ứng dụng nhiều Form\obj\Debug\net10.0-windows\Lab07 - SDI, MDI và ứng dụng nhiều Form.AssemblyInfo.cs
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07 - SDI, MDI và ứng dụng nhiều Form\obj\Debug\net10.0-windows\Lab07 - SDI, MDI và ứng dụng nhiều Form.csproj.CoreCompileInputs.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07 - SDI, MDI và ứng dụng nhiều Form\obj\Debug\net10.0-windows\Lab07 - SDI, MDI và ứng dụng nhiều Form.sourcelink.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07 - SDI, MDI và ứng dụng nhiều Form\bin\Debug\net10.0-windows\Lab07 - SDI, MDI và ứng dụng nhiều Form.exe
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07 - SDI, MDI và ứng dụng nhiều Form\bin\Debug\net10.0-windows\Lab07 - SDI, MDI và ứng dụng nhiều Form.deps.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07 - SDI, MDI và ứng dụng nhiều Form\bin\Debug\net10.0-windows\Lab07 - SDI, MDI và ứng dụng nhiều Form.runtimeconfig.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07 - SDI, MDI và ứng dụng nhiều Form\bin\Debug\net10.0-windows\Lab07 - SDI, MDI và ứng dụng nhiều Form.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07 - SDI, MDI và ứng dụng nhiều Form\bin\Debug\net10.0-windows\Lab07 - SDI, MDI và ứng dụng nhiều Form.pdb
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07 - SDI, MDI và ứng dụng nhiều Form\obj\Debug\net10.0-windows\Lab07 - SDI, MDI và ứng dụng nhiều Form.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07 - SDI, MDI và ứng dụng nhiều Form\obj\Debug\net10.0-windows\refint\Lab07 - SDI, MDI và ứng dụng nhiều Form.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07 - SDI, MDI và ứng dụng nhiều Form\obj\Debug\net10.0-windows\Lab07 - SDI, MDI và ứng dụng nhiều Form.pdb
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07 - SDI, MDI và ứng dụng nhiều Form\obj\Debug\net10.0-windows\Lab07 - SDI, MDI và ứng dụng nhiều Form.genruntimeconfig.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07 - SDI, MDI và ứng dụng nhiều Form\obj\Debug\net10.0-windows\ref\Lab07 - SDI, MDI và ứng dụng nhiều Form.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07 - SDI, MDI và ứng dụng nhiều Form\obj\Debug\net10.0-windows\Lab07 - .D4CDFE13.Up2Date
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07 - SDI, MDI và ứng dụng nhiều Form\obj\Debug\net10.0-windows\ShopManagerMini.Forms.FrmAbout.resources
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07 - SDI, MDI và ứng dụng nhiều Form\obj\Debug\net10.0-windows\Lab07 - SDI, MDI và ứng dụng nhiều Form.csproj.GenerateResource.cache

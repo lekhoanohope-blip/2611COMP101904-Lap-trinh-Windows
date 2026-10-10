@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Lab07 - SDI, MDI và ứng dụng nhiều Form/1.0.0": {
+        "runtime": {
+          "Lab07 - SDI, MDI và ứng dụng nhiều Form.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab07 - SDI, MDI và ứng dụng nhiều Form/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

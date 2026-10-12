@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08 - X\u00E2y d\u1EF1ng \u1EE9ng d\u1EE5ng Paint \u0111\u01A1n gi\u1EA3n b\u1EB1ng WinForms v\u00E0 GDI\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E64E9585-8657-4DD6-A74C-FF73B069B9B8}|Lab08 - X\u00E2y d\u1EF1ng \u1EE9ng d\u1EE5ng Paint \u0111\u01A1n gi\u1EA3n b\u1EB1ng WinForms v\u00E0 GDI\u002B.csproj|d:\\khoa\\ltw\\2611comp101904-lap-trinh-windows\\lab08\\lab08 - x\u00E2y d\u1EF1ng \u1EE9ng d\u1EE5ng paint \u0111\u01A1n gi\u1EA3n b\u1EB1ng winforms v\u00E0 gdi\u002B\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64E9585-8657-4DD6-A74C-FF73B069B9B8}|Lab08 - X\u00E2y d\u1EF1ng \u1EE9ng d\u1EE5ng Paint \u0111\u01A1n gi\u1EA3n b\u1EB1ng WinForms v\u00E0 GDI\u002B.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64E9585-8657-4DD6-A74C-FF73B069B9B8}|Lab08 - X\u00E2y d\u1EF1ng \u1EE9ng d\u1EE5ng Paint \u0111\u01A1n gi\u1EA3n b\u1EB1ng WinForms v\u00E0 GDI\u002B.csproj|d:\\khoa\\ltw\\2611comp101904-lap-trinh-windows\\lab08\\lab08 - x\u00E2y d\u1EF1ng \u1EE9ng d\u1EE5ng paint \u0111\u01A1n gi\u1EA3n b\u1EB1ng winforms v\u00E0 gdi\u002B\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64E9585-8657-4DD6-A74C-FF73B069B9B8}|Lab08 - X\u00E2y d\u1EF1ng \u1EE9ng d\u1EE5ng Paint \u0111\u01A1n gi\u1EA3n b\u1EB1ng WinForms v\u00E0 GDI\u002B.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64E9585-8657-4DD6-A74C-FF73B069B9B8}|Lab08 - X\u00E2y d\u1EF1ng \u1EE9ng d\u1EE5ng Paint \u0111\u01A1n gi\u1EA3n b\u1EB1ng WinForms v\u00E0 GDI\u002B.csproj|d:\\khoa\\ltw\\2611comp101904-lap-trinh-windows\\lab08\\lab08 - x\u00E2y d\u1EF1ng \u1EE9ng d\u1EE5ng paint \u0111\u01A1n gi\u1EA3n b\u1EB1ng winforms v\u00E0 gdi\u002B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64E9585-8657-4DD6-A74C-FF73B069B9B8}|Lab08 - X\u00E2y d\u1EF1ng \u1EE9ng d\u1EE5ng Paint \u0111\u01A1n gi\u1EA3n b\u1EB1ng WinForms v\u00E0 GDI\u002B.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08 - X\u00E2y d\u1EF1ng \u1EE9ng d\u1EE5ng Paint \u0111\u01A1n gi\u1EA3n b\u1EB1ng WinForms v\u00E0 GDI\u002B\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08 - X\u00E2y d\u1EF1ng \u1EE9ng d\u1EE5ng Paint \u0111\u01A1n gi\u1EA3n b\u1EB1ng WinForms v\u00E0 GDI\u002B\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAgwMcAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T03:29:49.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08 - X\u00E2y d\u1EF1ng \u1EE9ng d\u1EE5ng Paint \u0111\u01A1n gi\u1EA3n b\u1EB1ng WinForms v\u00E0 GDI\u002B\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08 - X\u00E2y d\u1EF1ng \u1EE9ng d\u1EE5ng Paint \u0111\u01A1n gi\u1EA3n b\u1EB1ng WinForms v\u00E0 GDI\u002B\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T03:16:30.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08 - X\u00E2y d\u1EF1ng \u1EE9ng d\u1EE5ng Paint \u0111\u01A1n gi\u1EA3n b\u1EB1ng WinForms v\u00E0 GDI\u002B\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08 - X\u00E2y d\u1EF1ng \u1EE9ng d\u1EE5ng Paint \u0111\u01A1n gi\u1EA3n b\u1EB1ng WinForms v\u00E0 GDI\u002B\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T03:13:12.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

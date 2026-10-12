@@ -374,7 +374,7 @@ if (currentItem.Points.Count == 0 ||
 
 ---
 
-## 10. Ghi chú & mở rộng
+## 9. Ghi chú & mở rộng
 
 - **Không lưu DB:** đóng app là mất dữ liệu. Có thể mở rộng ghi/đọc JSON để bền vững hơn.
 - **Có thể mở rộng thêm:**

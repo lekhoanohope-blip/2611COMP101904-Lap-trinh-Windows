@@ -1,0 +1,18 @@
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms\obj\Debug\net10.0-windows\StudentCardApp.FrmStudentCard.resources
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms\obj\Debug\net10.0-windows\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms.csproj.GenerateResource.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms\obj\Debug\net10.0-windows\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms\obj\Debug\net10.0-windows\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms.AssemblyInfoInputs.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms\obj\Debug\net10.0-windows\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms.AssemblyInfo.cs
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms\obj\Debug\net10.0-windows\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms.csproj.CoreCompileInputs.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms\obj\Debug\net10.0-windows\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms.sourcelink.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms\bin\Debug\net10.0-windows\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms.exe
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms\bin\Debug\net10.0-windows\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms.deps.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms\bin\Debug\net10.0-windows\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms.runtimeconfig.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms\bin\Debug\net10.0-windows\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms\bin\Debug\net10.0-windows\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms.pdb
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms\obj\Debug\net10.0-windows\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms\obj\Debug\net10.0-windows\refint\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms\obj\Debug\net10.0-windows\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms.pdb
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms\obj\Debug\net10.0-windows\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms.genruntimeconfig.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms\obj\Debug\net10.0-windows\ref\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09 - Thiết kế và in thẻ sinh viên bằng WinForms\obj\Debug\net10.0-windows\Lab09 - .CFF5DB55.Up2Date

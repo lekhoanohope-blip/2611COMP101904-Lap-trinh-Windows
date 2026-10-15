@@ -17,8 +17,7 @@
 8. [Kiểm thử ràng buộc](#8-kiểm-thử-ràng-buộc)
 9. [Kiến trúc & kỹ thuật chính](#9-kiến-trúc--kỹ-thuật-chính)
 10. [Xử lý lỗi & Validation](#10-xử-lý-lỗi--validation)
-11. [Test case](#11-test-case)
-12. [Ghi chú & mở rộng](#12-ghi-chú--mở-rộng)
+11. [Ghi chú & mở rộng](#12-ghi-chú--mở-rộng)
 
 ---
 
@@ -366,27 +365,7 @@ WHERE MaSV = 'SV003'
 | Xóa SV đã có điểm | Không xóa được (0 rows) | The DELETE statement conflicted with the REFERENCE constraint |
 
 ---
-
-## 11. Test case
-
-| STT | Test case | Kết quả mong đợi | Kết quả |
-|---|---|---|---|
-| 1 | Chạy File 1 trên máy sạch | Tạo đủ 6 bảng + FK + CK | ✅ Pass |
-| 2 | Chạy File 2 | Nhập đủ 2+3+6+4+8+2 dòng | ✅ Pass |
-| 3 | Chạy File 3 (câu 1 → 10) | Ra kết quả bình thường | ✅ Pass |
-| 4 | Chạy File 3 (câu 11) | Báo lỗi FK `CNTT99` | ✅ Pass |
-| 5 | Chạy File 3 (câu 12) | Báo lỗi CHECK `Diem` | ✅ Pass |
-| 6 | Chạy File 3 (câu 13) | Báo lỗi CHECK `GioiTinh` | ✅ Pass |
-| 7 | Chạy File 3 (câu 14) | Báo lỗi PK trùng `SV001` | ✅ Pass |
-| 8 | Kiểm tra Object Explorer | Đủ 6 bảng + ràng buộc | ✅ Pass |
-| 9 | Chạy lại File 1 | Xóa và tạo lại DB thành công | ✅ Pass |
-| 10 | JOIN 3 bảng (câu 2) | Kết quả đúng quan hệ SV–Lớp–Khoa | ✅ Pass |
-| 11 | Thống kê số SV theo lớp (câu 9) | Đúng số lượng mỗi lớp | ✅ Pass |
-| 12 | Lọc lớp có ≥ 2 SV (câu 10) | Chỉ hiện CNTT01, CNTT02, SPTIN01 | ✅ Pass |
-
----
-
-## 12. Ghi chú & mở rộng
+## 11. Ghi chú & mở rộng
 
 - **Chạy đúng thứ tự:** File 1 → File 2 → File 3. Nếu chạy sai thứ tự, sẽ báo lỗi `Invalid object name`.
 - **Không chạy nút "Build":** Nút Build (biểu tượng cái xẻng) chỉ dùng để biên dịch project C#, không dùng để chạy SQL. Chỉ nhấn **Execute** (F5) hoặc **Ctrl + Shift + E**.
@@ -405,26 +384,3 @@ WHERE MaSV = 'SV003'
 - **Tối ưu:** Với các cột thường JOIN như `MaKhoa`, `MaLop`, `MaSV`, `MaMH`, SQL Server đã tự tạo index do là khóa chính/khóa ngoại. Không cần thêm index thủ công.
 
 ---
-
-## ▶️ Cách chạy chương trình
-
-1. Mở **SQL Server Management Studio (SSMS)**.
-2. Kết nối tới Server: `localhost\SQLEXPRESS` (hoặc `.\SQLEXPRESS`).
-3. Mở file `01_CreateDatabase.sql` → nhấn **F5**.
-   * Kiểm tra tab **Messages** báo `Command(s) completed successfully.`
-4. Mở file `02_InsertSampleData.sql` → nhấn **F5**.
-5. Mở file `03_Queries.sql`:
-   * Bôi đen **câu 1 → 10** → nhấn **F5** → xem kết quả ở tab **Results**.
-   * Bôi đen **câu 11 → 14** → nhấn **F5** → xem lỗi đỏ ở tab **Messages** (đây là lỗi cố ý để test ràng buộc).
-6. Mở **Object Explorer** → mở rộng `EduManagerDB` → `Tables` để xem 6 bảng đã tạo.
-
----
-
-## ✅ Checklist nộp bài
-
-- [x] File `01_CreateDatabase.sql` — Tạo database + 6 bảng + FK + CHECK.
-- [x] File `02_InsertSampleData.sql` — Nhập 2+3+6+4+8+2 dòng dữ liệu mẫu.
-- [x] File `03_Queries.sql` — 10 truy vấn + 4 test ràng buộc.
-- [x] File `README.md` — Mô tả cách chạy và kết quả.
-- [x] Ảnh chụp kết quả chạy truy vấn chính.
-- [x] Ảnh chụp kết quả test ràng buộc (4 câu lỗi).

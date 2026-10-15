@@ -1,0 +1,70 @@
+USE master;
+GO
+
+DROP DATABASE IF EXISTS EduManagerDB;
+GO
+
+CREATE DATABASE EduManagerDB;
+GO
+
+USE EduManagerDB;
+GO
+
+CREATE TABLE KHOA (
+    MaKhoa      VARCHAR(20)     PRIMARY KEY,
+    TenKhoa     NVARCHAR(100)   NOT NULL,
+    DienThoai   VARCHAR(15)     NULL
+);
+GO
+
+CREATE TABLE LOP (
+    MaLop       VARCHAR(20)     PRIMARY KEY,
+    TenLop      NVARCHAR(100)   NOT NULL,
+    MaKhoa      VARCHAR(20)     NOT NULL,
+    CONSTRAINT FK_LOP_KHOA 
+        FOREIGN KEY (MaKhoa) REFERENCES KHOA(MaKhoa)
+);
+GO
+
+CREATE TABLE SINHVIEN (
+    MaSV        VARCHAR(20)     PRIMARY KEY,
+    HoTen       NVARCHAR(100)   NOT NULL,
+    NgaySinh    DATE            NULL,
+    GioiTinh    NVARCHAR(10)    NOT NULL,
+    MaLop       VARCHAR(20)     NOT NULL,
+    CONSTRAINT CK_SINHVIEN_GioiTinh 
+        CHECK (GioiTinh IN (N'Nam', N'Nữ')),
+    CONSTRAINT FK_SINHVIEN_LOP 
+        FOREIGN KEY (MaLop) REFERENCES LOP(MaLop)
+);
+GO
+
+CREATE TABLE MONHOC (
+    MaMH        VARCHAR(20)     PRIMARY KEY,
+    TenMH       NVARCHAR(100)   NOT NULL,
+    SoTinChi    INT             NOT NULL,
+    CONSTRAINT CK_MONHOC_SoTinChi CHECK (SoTinChi > 0)
+);
+GO
+
+CREATE TABLE KETQUA (
+    MaSV        VARCHAR(20)     NOT NULL,
+    MaMH        VARCHAR(20)     NOT NULL,
+    Diem        DECIMAL(4,2)    NOT NULL,
+    CONSTRAINT PK_KETQUA PRIMARY KEY (MaSV, MaMH),
+    CONSTRAINT CK_KETQUA_Diem CHECK (Diem BETWEEN 0 AND 10),
+    CONSTRAINT FK_KETQUA_SINHVIEN 
+        FOREIGN KEY (MaSV) REFERENCES SINHVIEN(MaSV),
+    CONSTRAINT FK_KETQUA_MONHOC 
+        FOREIGN KEY (MaMH) REFERENCES MONHOC(MaMH)
+);
+GO
+
+CREATE TABLE TAIKHOAN (
+    TenDangNhap VARCHAR(50)     PRIMARY KEY,
+    MatKhau     VARCHAR(100)    NOT NULL,
+    HoTen       NVARCHAR(100)   NOT NULL,
+    VaiTro      VARCHAR(20)     NOT NULL DEFAULT 'User',
+    TrangThai   BIT             NOT NULL DEFAULT 1
+);
+GO

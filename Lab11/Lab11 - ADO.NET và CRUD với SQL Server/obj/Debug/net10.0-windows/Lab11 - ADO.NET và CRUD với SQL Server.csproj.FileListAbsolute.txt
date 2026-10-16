@@ -1,0 +1,57 @@
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\obj\Debug\net10.0-windows\COMP1019_Buoi11_Lab11.FrmLop.resources
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\obj\Debug\net10.0-windows\Lab11 - ADO.NET và CRUD với SQL Server.csproj.GenerateResource.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\obj\Debug\net10.0-windows\Lab11 - ADO.NET và CRUD với SQL Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\obj\Debug\net10.0-windows\Lab11 - ADO.NET và CRUD với SQL Server.AssemblyInfoInputs.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\obj\Debug\net10.0-windows\Lab11 - ADO.NET và CRUD với SQL Server.AssemblyInfo.cs
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\obj\Debug\net10.0-windows\Lab11 - ADO.NET và CRUD với SQL Server.csproj.CoreCompileInputs.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\obj\Debug\net10.0-windows\Lab11 - ADO.NET và CRUD với SQL Server.sourcelink.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\Lab11 - ADO.NET và CRUD với SQL Server.exe
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\Lab11 - ADO.NET và CRUD với SQL Server.deps.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\Lab11 - ADO.NET và CRUD với SQL Server.runtimeconfig.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\Lab11 - ADO.NET và CRUD với SQL Server.runtimeconfig.dev.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\Lab11 - ADO.NET và CRUD với SQL Server.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\Lab11 - ADO.NET và CRUD với SQL Server.pdb
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\System.Threading.RateLimiting.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\obj\Debug\net10.0-windows\Lab11 - ADO.NET và CRUD với SQL Server.csproj.AssemblyReference.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\obj\Debug\net10.0-windows\Lab11 - .50A05EFA.Up2Date
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\obj\Debug\net10.0-windows\Lab11 - ADO.NET và CRUD với SQL Server.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\obj\Debug\net10.0-windows\refint\Lab11 - ADO.NET và CRUD với SQL Server.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\obj\Debug\net10.0-windows\Lab11 - ADO.NET và CRUD với SQL Server.pdb
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\obj\Debug\net10.0-windows\Lab11 - ADO.NET và CRUD với SQL Server.genruntimeconfig.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11 - ADO.NET và CRUD với SQL Server\obj\Debug\net10.0-windows\ref\Lab11 - ADO.NET và CRUD với SQL Server.dll

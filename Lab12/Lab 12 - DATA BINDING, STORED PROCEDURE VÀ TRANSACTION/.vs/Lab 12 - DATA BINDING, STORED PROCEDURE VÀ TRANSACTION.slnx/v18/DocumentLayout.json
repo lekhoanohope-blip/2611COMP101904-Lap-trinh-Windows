@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab12\\Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0CB682-729F-A3C0-B048-44BEC28E7113}|Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION.csproj|d:\\khoa\\ltw\\2611comp101904-lap-trinh-windows\\lab12\\lab 12 - data binding, stored procedure v\u00E0 transaction\\frmnhapdiemtheolop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C0CB682-729F-A3C0-B048-44BEC28E7113}|Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION.csproj|solutionrelative:frmnhapdiemtheolop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066F5EDF-6E24-4DFD-B6A4-96F2B87C34DD}|Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION.csproj|D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab12\\Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION\\frmnhapdiemtheolop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{066F5EDF-6E24-4DFD-B6A4-96F2B87C34DD}|Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION.csproj|solutionrelative:frmnhapdiemtheolop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0CB682-729F-A3C0-B048-44BEC28E7113}|Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION.csproj|d:\\khoa\\ltw\\2611comp101904-lap-trinh-windows\\lab12\\lab 12 - data binding, stored procedure v\u00E0 transaction\\qlsinhvienlab12.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{1C0CB682-729F-A3C0-B048-44BEC28E7113}|Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION.csproj|solutionrelative:qlsinhvienlab12.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0CB682-729F-A3C0-B048-44BEC28E7113}|Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION.csproj|d:\\khoa\\ltw\\2611comp101904-lap-trinh-windows\\lab12\\lab 12 - data binding, stored procedure v\u00E0 transaction\\dal\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0CB682-729F-A3C0-B048-44BEC28E7113}|Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION.csproj|solutionrelative:dal\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0CB682-729F-A3C0-B048-44BEC28E7113}|Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION.csproj|d:\\khoa\\ltw\\2611comp101904-lap-trinh-windows\\lab12\\lab 12 - data binding, stored procedure v\u00E0 transaction\\frmnhapdiemtheolop.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0CB682-729F-A3C0-B048-44BEC28E7113}|Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION.csproj|solutionrelative:frmnhapdiemtheolop.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0CB682-729F-A3C0-B048-44BEC28E7113}|Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION.csproj|d:\\khoa\\ltw\\2611comp101904-lap-trinh-windows\\lab12\\lab 12 - data binding, stored procedure v\u00E0 transaction\\frmnhapdiemtheolop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0CB682-729F-A3C0-B048-44BEC28E7113}|Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION.csproj|solutionrelative:frmnhapdiemtheolop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0CB682-729F-A3C0-B048-44BEC28E7113}|Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION.csproj|d:\\khoa\\ltw\\2611comp101904-lap-trinh-windows\\lab12\\lab 12 - data binding, stored procedure v\u00E0 transaction\\dal\\ketquadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0CB682-729F-A3C0-B048-44BEC28E7113}|Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION.csproj|solutionrelative:dal\\ketquadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0CB682-729F-A3C0-B048-44BEC28E7113}|Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION.csproj|d:\\khoa\\ltw\\2611comp101904-lap-trinh-windows\\lab12\\lab 12 - data binding, stored procedure v\u00E0 transaction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0CB682-729F-A3C0-B048-44BEC28E7113}|Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0CB682-729F-A3C0-B048-44BEC28E7113}|Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION.csproj|d:\\khoa\\ltw\\2611comp101904-lap-trinh-windows\\lab12\\lab 12 - data binding, stored procedure v\u00E0 transaction\\qlsinhvienlab12.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{1C0CB682-729F-A3C0-B048-44BEC28E7113}|Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION.csproj|solutionrelative:qlsinhvienlab12.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0CB682-729F-A3C0-B048-44BEC28E7113}|Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION.csproj|d:\\khoa\\ltw\\2611comp101904-lap-trinh-windows\\lab12\\lab 12 - data binding, stored procedure v\u00E0 transaction\\qlsinhvienlab12.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{1C0CB682-729F-A3C0-B048-44BEC28E7113}|Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION.csproj|solutionrelative:qlsinhvienlab12.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmNhapDiemTheoLop.cs [Design]",
+              "DocumentMoniker": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab12\\Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION\\FrmNhapDiemTheoLop.cs",
+              "RelativeDocumentMoniker": "FrmNhapDiemTheoLop.cs",
+              "ToolTip": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab12\\Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION\\FrmNhapDiemTheoLop.cs [Design]",
+              "RelativeToolTip": "FrmNhapDiemTheoLop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T10:23:24.59Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmNhapDiemTheoLop.Designer.cs",
+              "DocumentMoniker": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab12\\Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION\\FrmNhapDiemTheoLop.Designer.cs",
+              "RelativeDocumentMoniker": "FrmNhapDiemTheoLop.Designer.cs",
+              "ToolTip": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab12\\Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION\\FrmNhapDiemTheoLop.Designer.cs",
+              "RelativeToolTip": "FrmNhapDiemTheoLop.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T04:02:06.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmNhapDiemTheoLop.cs",
+              "DocumentMoniker": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab12\\Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION\\FrmNhapDiemTheoLop.cs",
+              "RelativeDocumentMoniker": "FrmNhapDiemTheoLop.cs",
+              "ToolTip": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab12\\Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION\\FrmNhapDiemTheoLop.cs",
+              "RelativeToolTip": "FrmNhapDiemTheoLop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T04:01:52.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmNhapDiemTheoLop.cs [Design]",
+              "DocumentMoniker": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab12\\Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION\\FrmNhapDiemTheoLop.cs",
+              "RelativeDocumentMoniker": "FrmNhapDiemTheoLop.cs",
+              "ToolTip": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab12\\Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION\\FrmNhapDiemTheoLop.cs [Design]",
+              "RelativeToolTip": "FrmNhapDiemTheoLop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T04:01:43.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KetQuaDAL.cs",
+              "DocumentMoniker": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab12\\Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION\\DAL\\KetQuaDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\KetQuaDAL.cs",
+              "ToolTip": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab12\\Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION\\DAL\\KetQuaDAL.cs",
+              "RelativeToolTip": "DAL\\KetQuaDAL.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T04:01:04.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab12\\Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION\\DAL\\Database.cs",
+              "RelativeDocumentMoniker": "DAL\\Database.cs",
+              "ToolTip": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab12\\Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION\\DAL\\Database.cs",
+              "RelativeToolTip": "DAL\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T04:00:22.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab12\\Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab12\\Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T03:59:49.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QLSinhVienLab12.sql ",
+              "DocumentMoniker": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab12\\Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION\\QLSinhVienLab12.sql",
+              "RelativeDocumentMoniker": "QLSinhVienLab12.sql",
+              "ToolTip": "D:\\Khoa\\ltw\\2611COMP101904-Lap-trinh-Windows\\Lab12\\Lab 12 - DATA BINDING, STORED PROCEDURE V\u00C0 TRANSACTION\\QLSinhVienLab12.sql",
+              "RelativeToolTip": "QLSinhVienLab12.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-22T03:55:53.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

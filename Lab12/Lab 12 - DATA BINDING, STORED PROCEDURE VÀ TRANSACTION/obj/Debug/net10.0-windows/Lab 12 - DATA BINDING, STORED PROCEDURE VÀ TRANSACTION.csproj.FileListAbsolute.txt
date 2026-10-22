@@ -1,0 +1,62 @@
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\obj\Debug\net10.0-windows\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION.csproj.AssemblyReference.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\obj\Debug\net10.0-windows\QLSinhVienLab12.Forms.FrmNhapDiemTheoLop.resources
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\obj\Debug\net10.0-windows\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION.csproj.GenerateResource.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\obj\Debug\net10.0-windows\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\obj\Debug\net10.0-windows\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION.AssemblyInfoInputs.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\obj\Debug\net10.0-windows\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION.AssemblyInfo.cs
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\obj\Debug\net10.0-windows\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION.csproj.CoreCompileInputs.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\obj\Debug\net10.0-windows\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION.sourcelink.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION.exe
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION.deps.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION.runtimeconfig.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION.runtimeconfig.dev.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION.pdb
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Azure.Core.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Azure.Identity.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\System.ClientModel.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\System.Memory.Data.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\bin\Debug\net10.0-windows\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\obj\Debug\net10.0-windows\Lab 12 -.05C42BA4.Up2Date
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\obj\Debug\net10.0-windows\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\obj\Debug\net10.0-windows\refint\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\obj\Debug\net10.0-windows\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION.pdb
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\obj\Debug\net10.0-windows\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION.genruntimeconfig.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab12\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION\obj\Debug\net10.0-windows\ref\Lab 12 - DATA BINDING, STORED PROCEDURE VÀ TRANSACTION.dll

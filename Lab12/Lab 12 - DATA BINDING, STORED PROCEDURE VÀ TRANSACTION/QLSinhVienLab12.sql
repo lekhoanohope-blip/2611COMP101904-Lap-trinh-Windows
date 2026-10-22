@@ -1,0 +1,129 @@
+IF DB_ID('QLSinhVienLab12') IS NULL
+    CREATE DATABASE QLSinhVienLab12;
+GO
+
+USE QLSinhVienLab12;
+GO
+
+DROP TABLE IF EXISTS KETQUA;
+DROP TABLE IF EXISTS SINHVIEN;
+DROP TABLE IF EXISTS MONHOC;
+DROP TABLE IF EXISTS LOP;
+GO
+
+CREATE TABLE LOP (
+    MaLop NVARCHAR(20) PRIMARY KEY,
+    TenLop NVARCHAR(100) NOT NULL
+);
+
+CREATE TABLE SINHVIEN (
+    MaSV NVARCHAR(20) PRIMARY KEY,
+    HoTen NVARCHAR(100) NOT NULL,
+    NgaySinh DATE NULL,
+    MaLop NVARCHAR(20) NOT NULL,
+    CONSTRAINT FK_SINHVIEN_LOP FOREIGN KEY (MaLop) REFERENCES LOP(MaLop)
+);
+
+CREATE TABLE MONHOC (
+    MaMon NVARCHAR(20) PRIMARY KEY,
+    TenMon NVARCHAR(100) NOT NULL,
+    SoTinChi INT NOT NULL CHECK (SoTinChi > 0)
+);
+
+CREATE TABLE KETQUA (
+    MaSV NVARCHAR(20) NOT NULL,
+    MaMon NVARCHAR(20) NOT NULL,
+    Diem FLOAT NOT NULL CHECK (Diem >= 0 AND Diem <= 10),
+    GhiChu NVARCHAR(255) NULL,
+    CONSTRAINT PK_KETQUA PRIMARY KEY (MaSV, MaMon),
+    CONSTRAINT FK_KETQUA_SINHVIEN FOREIGN KEY (MaSV) REFERENCES SINHVIEN(MaSV),
+    CONSTRAINT FK_KETQUA_MONHOC FOREIGN KEY (MaMon) REFERENCES MONHOC(MaMon)
+);
+GO
+
+INSERT INTO LOP VALUES
+(N'CTK47A', N'Công nghệ thông tin K47A'),
+(N'CTK47B', N'Công nghệ thông tin K47B');
+
+INSERT INTO SINHVIEN VALUES
+(N'SV001', N'Nguyễn Văn An', '2005-01-15', N'CTK47A'),
+(N'SV002', N'Trần Thị Bình', '2005-05-20', N'CTK47A'),
+(N'SV003', N'Lê Minh Cường', '2005-03-11', N'CTK47A'),
+(N'SV004', N'Phạm Thanh Dung', '2005-07-09', N'CTK47B');
+
+INSERT INTO MONHOC VALUES
+(N'COMP1019', N'Lập trình trên Windows', 3),
+(N'COMP1017', N'Cơ sở lập trình', 3);
+GO
+
+CREATE OR ALTER PROCEDURE sp_Lop_GetAll
+AS
+BEGIN
+    SET NOCOUNT ON;
+    SELECT MaLop, TenLop
+    FROM LOP
+    ORDER BY TenLop;
+END;
+GO
+
+CREATE OR ALTER PROCEDURE sp_MonHoc_GetAll
+AS
+BEGIN
+    SET NOCOUNT ON;
+    SELECT MaMon, TenMon, SoTinChi
+    FROM MONHOC
+    ORDER BY TenMon;
+END;
+GO
+
+CREATE OR ALTER PROCEDURE sp_KetQua_GetByLopMon
+    @MaLop NVARCHAR(20),
+    @MaMon NVARCHAR(20)
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    SELECT 
+        sv.MaSV,
+        sv.HoTen,
+        kq.Diem AS Diem,
+        ISNULL(kq.GhiChu, N'') AS GhiChu
+    FROM SINHVIEN sv
+    LEFT JOIN KETQUA kq
+        ON sv.MaSV = kq.MaSV AND kq.MaMon = @MaMon
+    WHERE sv.MaLop = @MaLop
+    ORDER BY sv.HoTen;
+END;
+GO
+
+CREATE OR ALTER PROCEDURE sp_KetQua_Save
+    @MaSV NVARCHAR(20),
+    @MaMon NVARCHAR(20),
+    @Diem FLOAT,
+    @GhiChu NVARCHAR(255)
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    IF @Diem < 0 OR @Diem > 10
+    BEGIN
+        ;THROW 50001, N'Điểm phải nằm trong khoảng 0 đến 10.', 1;
+    END;
+
+    IF EXISTS (
+        SELECT 1 FROM KETQUA
+        WHERE MaSV = @MaSV AND MaMon = @MaMon
+    )
+    BEGIN
+        UPDATE KETQUA
+        SET Diem = @Diem,
+            GhiChu = @GhiChu
+        WHERE MaSV = @MaSV AND MaMon = @MaMon;
+    END
+    ELSE
+    BEGIN
+        INSERT INTO KETQUA(MaSV, MaMon, Diem, GhiChu)
+        VALUES(@MaSV, @MaMon, @Diem, @GhiChu);
+    END
+END;
+GO

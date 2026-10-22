@@ -1,0 +1,19 @@
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab13\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ\bin\Debug\net10.0-windows\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ.exe
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab13\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ\bin\Debug\net10.0-windows\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ.deps.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab13\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ\bin\Debug\net10.0-windows\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ.runtimeconfig.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab13\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ\bin\Debug\net10.0-windows\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ.runtimeconfig.dev.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab13\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ\bin\Debug\net10.0-windows\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab13\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ\bin\Debug\net10.0-windows\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ.pdb
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab13\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ\obj\Debug\net10.0-windows\StudentReportDemo.Forms.FrmBaoCaoSinhVien.resources
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab13\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ\obj\Debug\net10.0-windows\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ.csproj.GenerateResource.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab13\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ\obj\Debug\net10.0-windows\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab13\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ\obj\Debug\net10.0-windows\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ.AssemblyInfoInputs.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab13\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ\obj\Debug\net10.0-windows\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ.AssemblyInfo.cs
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab13\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ\obj\Debug\net10.0-windows\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ.csproj.CoreCompileInputs.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab13\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ\obj\Debug\net10.0-windows\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ.sourcelink.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab13\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ\obj\Debug\net10.0-windows\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab13\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ\obj\Debug\net10.0-windows\refint\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab13\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ\obj\Debug\net10.0-windows\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ.pdb
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab13\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ\obj\Debug\net10.0-windows\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ.genruntimeconfig.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab13\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ\obj\Debug\net10.0-windows\ref\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab13\Lab13 - BÁO CÁO SINH VIÊN BẰNG LINQ\obj\Debug\net10.0-windows\Lab13 - .BD274C54.Up2Date

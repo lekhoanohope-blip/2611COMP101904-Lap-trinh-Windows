@@ -1,0 +1,155 @@
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\obj\Debug\net10.0-windows\Lab_14___Entity_Framework_và_mô_hình_ba_lớp.GUI.FrmMonHoc.resources
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\obj\Debug\net10.0-windows\Lab 14 -  Entity Framework và mô hình ba lớp.csproj.GenerateResource.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\obj\Debug\net10.0-windows\Lab 14 -  Entity Framework và mô hình ba lớp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\obj\Debug\net10.0-windows\Lab 14 -  Entity Framework và mô hình ba lớp.AssemblyInfoInputs.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\obj\Debug\net10.0-windows\Lab 14 -  Entity Framework và mô hình ba lớp.AssemblyInfo.cs
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\obj\Debug\net10.0-windows\Lab 14 -  Entity Framework và mô hình ba lớp.csproj.CoreCompileInputs.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\obj\Debug\net10.0-windows\Lab 14 -  Entity Framework và mô hình ba lớp.sourcelink.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\obj\Debug\net10.0-windows\Lab 14 -  Entity Framework và mô hình ba lớp.csproj.AssemblyReference.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Lab 14 -  Entity Framework và mô hình ba lớp.exe
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Lab 14 -  Entity Framework và mô hình ba lớp.deps.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Lab 14 -  Entity Framework và mô hình ba lớp.runtimeconfig.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Lab 14 -  Entity Framework và mô hình ba lớp.runtimeconfig.dev.json
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Lab 14 -  Entity Framework và mô hình ba lớp.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Lab 14 -  Entity Framework và mô hình ba lớp.pdb
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Azure.Core.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Azure.Identity.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Humanizer.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.Build.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.Build.Framework.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.Build.Tasks.Core.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.Build.Utilities.Core.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.NET.StringTools.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Mono.TextTemplating.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\Newtonsoft.Json.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\System.ClientModel.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\System.Composition.AttributedModel.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\System.Composition.Convention.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\System.Composition.Hosting.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\System.Composition.Runtime.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\System.Composition.TypedParts.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\System.Memory.Data.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\System.Reflection.MetadataLoadContext.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\obj\Debug\net10.0-windows\Lab 14 -.7AF1EBA8.Up2Date
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\obj\Debug\net10.0-windows\Lab 14 -  Entity Framework và mô hình ba lớp.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\obj\Debug\net10.0-windows\refint\Lab 14 -  Entity Framework và mô hình ba lớp.dll
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\obj\Debug\net10.0-windows\Lab 14 -  Entity Framework và mô hình ba lớp.pdb
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\obj\Debug\net10.0-windows\Lab 14 -  Entity Framework và mô hình ba lớp.genruntimeconfig.cache
+D:\Khoa\ltw\2611COMP101904-Lap-trinh-Windows\Lab14\Lab 14 -  Entity Framework và mô hình ba lớp\obj\Debug\net10.0-windows\ref\Lab 14 -  Entity Framework và mô hình ba lớp.dll
